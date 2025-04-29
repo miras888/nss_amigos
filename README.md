@@ -1,5 +1,5 @@
-NSS Amigos – Titan Public Service Center
-🏆 NSS Gerard K. O’Neill Space Settlement Contest Project
+# NSS Amigos – Titan Public Service Center
+# 🏆 NSS Gerard K. O’Neill Space Settlement Contest Project
 
 This repository contains the software prototype developed by the Amigos Team for the NSS Gerard K. O’Neill Space Settlement Contest. The project envisions a Public Service Center designed to support daily life in a space settlement located on Titan, Saturn’s largest moon.
 
